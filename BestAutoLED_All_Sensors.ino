@@ -7,8 +7,8 @@
 #include <DallasTemperature.h>
 
 // Wi-Fi credentials
-const char* ssid = "Net-HGSDConsulting";
-const char* password = "64730053812020";
+const char* ssid = "";
+const char* password = "";
 
 // Pin definitions
 #define DHTPIN 42
